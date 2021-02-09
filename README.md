@@ -1,24 +1,23 @@
-# netflix-clone
+# Netflix clone
 
-## Project setup
-```
-npm install
+I'd created the Netflix clone using Vue.js. It contains firebase authentication, some movies that are fetched from TMDB API, and other features.
+
+## How to run this project?
+
+Use the __npm__ package manager to install all dependencies.
+```bash
+npm install i
 ```
 
-### Compiles and hot-reloads for development
+## Usage
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Then you're done. Project will start on your localhost.
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Technologies used:
+- Vue.js
+- Vuex, Vue-router,
+- Firebase auth, Firebase database
